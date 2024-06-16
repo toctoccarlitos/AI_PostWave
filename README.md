@@ -5,6 +5,10 @@ AI_PostWave is an advanced AI-powered tool designed to automate the creation and
 
 # Instalation
 
+```
+pip install python-dotenv loguru langchain-openai langchain-anthropic
+```
+
 # Usage
 
 # 🚧 Under Construction 🚧
